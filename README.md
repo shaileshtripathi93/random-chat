@@ -2,7 +2,7 @@
 
 A minimal real-time chat application designed with JavaScript, Node.js, and Socket.io. This app provides an interface for two users—a sender and a receiver—to exchange messages and see each other's online status, emulating a familiar messaging experience.
 
-![App Screenshot](./[images/screenshot.png](https://github.com/shaileshtripathi93/random-chat/blob/main/Screenshot%202024-11-08%20133445.png))
+![App Screenshot]((https://github.com/shaileshtripathi93/random-chat/blob/main/Screenshot%202024-11-08%20133445.png))
 
 
 ## Table of Contents

@@ -44,8 +44,10 @@ project-folder/
    Clone the repository to your local machine:
    ```bash
    git clone <repository-url>
-   cd project-folder
-   npm install
+    cd project-folder
+   
+  ```bash
+    npm install
    node server.js
    http://localhost:3000/sender.html
    http://localhost:3000/receiver.html

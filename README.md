@@ -47,7 +47,7 @@ project-folder/
     cd project-folder
    
   ```bash
-    npm install
+   npm install
    node server.js
    http://localhost:3000/sender.html
    http://localhost:3000/receiver.html
